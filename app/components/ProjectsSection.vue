@@ -1,7 +1,7 @@
 <template>
   <section id="contributions" class="py-20">
     <h2 class="text-4xl font-bold mb-4 text-blue-400">Featured Projects</h2>
-    <p class="text-gray-400 mb-12 text-lg">Real-world applications delivering measurable impact</p>
+    <p class="text-gray-400 mb-12 text-lg">Real-world applications delivering impact to end-users</p>
     
     <div class="space-y-8">
       <div v-for="(project, idx) in projects" :key="idx" 

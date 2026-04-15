@@ -29,7 +29,7 @@
       <a :href="heroData.email_link" class="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition transform hover:scale-105 duration-200">
         {{ heroData.cta_button_text }}
       </a>
-      <a href="#projects" class="px-8 py-4 border-2 border-blue-600 text-blue-400 hover:bg-blue-600/10 font-semibold rounded-lg transition">
+      <a href="#contributions" class="px-8 py-4 border-2 border-blue-600 text-blue-400 hover:bg-blue-600/10 font-semibold rounded-lg transition">
         {{ heroData.cta_button_secondary }}
       </a>
     </div>

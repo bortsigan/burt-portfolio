@@ -1,7 +1,7 @@
 export const heroData = {
   name: "Burt Karl Cabigas",
   title: "Web Developer",
-  headline: "Full-stack developer who's been shipping production code for 10+ years",
+  headline: "10+ years building real-world production code.",
   description: "Spent 10+ years building web applications. Started with PHP, now working with Laravel and Vue. Built clinic booking systems, education platforms, and logistics APIs. I focus on reliability, performance, and code that actually works in production.",
   phone: "+63 945 331 1165",
   phone_link: "tel:+639453311165",
