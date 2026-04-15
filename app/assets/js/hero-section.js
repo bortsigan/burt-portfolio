@@ -1,11 +1,20 @@
 export const heroData = {
   name: "Burt Karl Cabigas",
-  title: "Full-Stack Web Developer",
-  description: "Experienced web developer specializing in PHP, Laravel, Vue.js, and modern web technologies. I excel in building scalable applications, optimizing database queries, and delivering seamless user experiences.",
+  title: "Web Developer",
+  headline: "I build web applications that work",
+  description: "10+ years working with PHP, Laravel, Vue.js. Built systems for education platforms, clinic management, logistics, and more. I focus on clean code, performance, and solving real problems.",
   phone: "+63 945 331 1165",
   phone_link: "tel:+639453311165",
   email: "iamcabigasburtkarl@gmail.com",
   email_link: "mailto:iamcabigasburtkarl@gmail.com",
   location: "Greenbelt Drive, Quiot, Cebu City, Philippines",
-  cta_button_text: "Get in Touch"
+  cta_button_text: "Let's Work Together",
+  cta_button_secondary: "View My Work",
+  
+  // Hero stats for visual impact
+  stats: [
+    { value: "10+", label: "Years in Web Dev" },
+    { value: "7+", label: "Companies" },
+    { value: "50+", label: "Projects" }
+  ]
 };

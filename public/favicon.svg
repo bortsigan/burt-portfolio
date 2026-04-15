@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <!-- Background -->
-  <rect width="64" height="64" fill="#022c22" rx="8"/>
+  <rect width="64" height="64" fill="#1e1b4b" rx="8"/>
   
-  <!-- Green accent circle -->
-  <circle cx="32" cy="32" r="28" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <!-- Purple accent circle -->
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#a78bfa" stroke-width="2"/>
   
   <!-- Code brackets -->
-  <g stroke="#22c55e" stroke-width="3" stroke-linecap="round" fill="none">
+  <g stroke="#a78bfa" stroke-width="3" stroke-linecap="round" fill="none">
     <!-- Left bracket -->
     <polyline points="20,18 14,32 20,46"/>
     <!-- Right bracket -->
@@ -14,5 +14,5 @@
   </g>
   
   <!-- B letter in the center -->
-  <text x="32" y="38" font-family="monospace" font-size="24" font-weight="bold" fill="#22c55e" text-anchor="middle" dominant-baseline="middle">B</text>
+  <text x="32" y="38" font-family="monospace" font-size="24" font-weight="bold" fill="#a78bfa" text-anchor="middle" dominant-baseline="middle">B</text>
 </svg>
