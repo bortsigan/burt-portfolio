@@ -3,13 +3,14 @@
 
         <!-- NAVBAR -->
         <header class="sticky top-0 z-50 bg-gray-950/90 backdrop-blur-md border-b border-gray-800 px-6 py-4 flex justify-between items-center">
-            <h1 class="font-bold text-xl text-purple-400">BURT<span class="text-gray-400">.dev</span></h1>
+            <h1 class="font-bold text-xl text-blue-400">BURT<span class="text-gray-400">.dev</span></h1>
 
             <nav class="hidden md:flex space-x-8 text-sm font-medium">
-                <a href="#about" class="text-gray-300 hover:text-purple-400 transition">About</a>
-                <a href="#experience" class="text-gray-300 hover:text-purple-400 transition">Experience</a>
-                <a href="#skills" class="text-gray-300 hover:text-purple-400 transition">Skills</a>
-                <a href="#contact" class="text-gray-300 hover:text-purple-400 transition">Contact</a>
+                <a href="#about" class="text-gray-300 hover:text-blue-400 transition">About</a>
+                <a href="#contributions" class="text-gray-300 hover:text-blue-400 transition">Contributions</a>
+                <a href="#experience" class="text-gray-300 hover:text-blue-400 transition">Experience</a>
+                <a href="#skills" class="text-gray-300 hover:text-blue-400 transition">Skills</a>
+                <a href="#contact" class="text-gray-300 hover:text-blue-400 transition">Contact</a>
             </nav>
         </header>
 

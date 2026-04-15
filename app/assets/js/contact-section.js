@@ -14,8 +14,8 @@ export const contactInfo = {
   location: {
     icon: "📍",
     title: "Location",
-    value: "Greenbelt Drive, Quiot",
-    valueSecond: "Cebu City, Philippines"
+    value: "",
+    valueSecond: "Philippines"
   }
 };
 

@@ -2,11 +2,11 @@
   <!-- Background -->
   <rect width="64" height="64" fill="#1e1b4b" rx="8"/>
   
-  <!-- Purple accent circle -->
-  <circle cx="32" cy="32" r="28" fill="none" stroke="#a78bfa" stroke-width="2"/>
+  <!-- Blue accent circle -->
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#58a6ff" stroke-width="2"/>
   
   <!-- Code brackets -->
-  <g stroke="#a78bfa" stroke-width="3" stroke-linecap="round" fill="none">
+  <g stroke="#58a6ff" stroke-width="3" stroke-linecap="round" fill="none">
     <!-- Left bracket -->
     <polyline points="20,18 14,32 20,46"/>
     <!-- Right bracket -->
@@ -14,5 +14,5 @@
   </g>
   
   <!-- B letter in the center -->
-  <text x="32" y="38" font-family="monospace" font-size="24" font-weight="bold" fill="#a78bfa" text-anchor="middle" dominant-baseline="middle">B</text>
+  <text x="32" y="38" font-family="monospace" font-size="24" font-weight="bold" fill="#58a6ff" text-anchor="middle" dominant-baseline="middle">B</text>
 </svg>

@@ -1,17 +1,16 @@
 export const heroData = {
   name: "Burt Karl Cabigas",
   title: "Web Developer",
-  headline: "I build web applications that work",
-  description: "10+ years working with PHP, Laravel, Vue.js. Built systems for education platforms, clinic management, logistics, and more. I focus on clean code, performance, and solving real problems.",
+  headline: "Full-stack developer who's been shipping production code for 10+ years",
+  description: "I've been building web stuff since the PHP days. Now I work with Laravel and Vue. Built clinic booking systems that handle real patients, education platforms for thousands of students, and logistics APIs that move actual shipments. I'm good at debugging, testing, and making sure code doesn't break in production. That's what matters to me.",
   phone: "+63 945 331 1165",
   phone_link: "tel:+639453311165",
   email: "iamcabigasburtkarl@gmail.com",
   email_link: "mailto:iamcabigasburtkarl@gmail.com",
-  location: "Greenbelt Drive, Quiot, Cebu City, Philippines",
+  location: "Philippines",
   cta_button_text: "Let's Work Together",
   cta_button_secondary: "View My Work",
-  
-  // Hero stats for visual impact
+
   stats: [
     { value: "10+", label: "Years in Web Dev" },
     { value: "7+", label: "Companies" },
