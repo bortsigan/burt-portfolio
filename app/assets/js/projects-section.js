@@ -98,7 +98,7 @@ export const projects = [
     metrics: [
       { label: "Classes", value: "50+ active" },
       { label: "Users", value: "1,000+ teachers/students" },
-      { label: "Impact", value: "Streamlined workflows" }
+      { label: "Impact", value: "Simpler workflows" }
     ],
     technologies: ["PHP", "Laravel", "MySQL"],
     role: "PHP Developer",
@@ -107,6 +107,78 @@ export const projects = [
       "Created an assignment interface where students could submit work and teachers could grade it",
       "Added real-time notifications so nobody missed important class announcements",
       "Made sure the whole thing worked in both Japanese and English"
+    ]
+  },
+  {
+    title: "In-House Ecommerce Platform",
+    company: "BBO Co. LTD",
+    description: "Inventory management and sales tracking system for internal ecommerce operations.",
+    metrics: [
+      { label: "SKUs", value: "500+" },
+      { label: "Transactions", value: "Daily tracking" },
+      { label: "Impact", value: "Better stock control" }
+    ],
+    technologies: ["PHP", "Laravel", "MySQL", "Vue.js"],
+    role: "PHP/Full-Stack Developer",
+    highlights: [
+      "Built inventory system that tracked stock levels and prevented overselling",
+      "Created a sales dashboard showing real-time revenue and trends",
+      "Automated low-stock alerts so products never unexpectedly ran out",
+      "Made order processing and fulfillment quicker and easier"
+    ]
+  },
+  {
+    title: "Web Scraping Solutions",
+    company: "BBO Co. LTD",
+    description: "Data extraction and automation tools built with PuppeteerJS for various business needs.",
+    metrics: [
+      { label: "Data Points", value: "Automated collection" },
+      { label: "Reliability", value: "Error handling & retries" },
+      { label: "Impact", value: "Time saved on manual work" }
+    ],
+    technologies: ["PuppeteerJS", "Node.js", "JavaScript", "Data Processing"],
+    role: "PHP Developer",
+    highlights: [
+      "Built automated scrapers that collected data without manual intervention",
+      "Implemented robust error handling to keep scrapers running consistently",
+      "Created scheduled jobs that ran on a regular basis to keep data fresh",
+      "Delivered data in formats that the team could easily use"
+    ]
+  },
+  {
+    title: "Chatbot Backend & Features",
+    company: "Link365 Global Solutions",
+    description: "Backend development and feature implementation for a conversational chatbot application.",
+    metrics: [
+      { label: "Features", value: "Multiple integrations" },
+      { label: "Reliability", value: "24/7 availability" },
+      { label: "Impact", value: "Improved response times" }
+    ],
+    technologies: ["Symfony 4", "PHP", "APIs", "MongoDB"],
+    role: "Symfony Developer",
+    highlights: [
+      "Developed backend services that powered the chatbot's core functionality",
+      "Created APIs for integrating with external services",
+      "Optimized query performance for real-time conversational responses",
+      "Implemented logging and monitoring for consistent uptime"
+    ]
+  },
+  {
+    title: "Independent Scraping & Automation Project",
+    company: "Link365 Global Solutions",
+    description: "Solo-led initiative to build a comprehensive scraping and data automation solution from scratch.",
+    metrics: [
+      { label: "Scope", value: "Full project ownership" },
+      { label: "Complexity", value: "Multi-stage pipeline" },
+      { label: "Impact", value: "Demonstrated autonomy" }
+    ],
+    technologies: ["Symfony 4", "PuppeteerJS", "Node.js", "Data Processing", "MongoDB"],
+    role: "Symfony Developer",
+    highlights: [
+      "Conceptualized and designed the entire project architecture independently",
+      "Built scraping pipelines that handled complex data extraction workflows",
+      "Implemented data validation and transformation without supervision",
+      "Deployed and maintained the solution in production with minimal guidance"
     ]
   }
 ];

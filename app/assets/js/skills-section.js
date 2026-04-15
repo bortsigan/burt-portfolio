@@ -35,9 +35,10 @@ export const testingApis = [
 
 export const advancedTools = [
   'PuppeteerJS',
-  'Datadog',
+  'Vercel',
+  'Redis',
+  'Memcached',
   'Laravel Socialite',
-  'Laravel Horizon',
   'Laravel Envoyer',
   'Laravel Forge'
 ];

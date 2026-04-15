@@ -22,7 +22,7 @@ export const testimonials = [
 
 export const stats = [
   {
-    number: "10+",
+    number: "10",
     label: "Years Experience",
     description: "Proven track record in web development"
   },

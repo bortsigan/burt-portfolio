@@ -16,8 +16,7 @@ export const experiences = [
     company: "World Beep",
     period: "Oct 2023 - Apr 2024",
     achievements: [
-      "Integrated Stripe payment gateway tailored for hotel e-commerce platforms",
-      "Streamlined Laravel codebase by removing redundant Eloquent relationships",
+      "Cleaned up the Laravel codebase by removing unused Eloquent relationships",
       "Built VueJS features by translating Figma designs into interactive interfaces",
       "Deployed updates to AWS S3 and EC2 instances with optimized configurations",
       "Implemented VCL in Fastly for server-specific user action handling",
@@ -42,10 +41,11 @@ export const experiences = [
     company: "Link365 Global Solutions",
     period: "Jul 2021 - Nov 2022",
     achievements: [
-      "Developed web scraping application using Puppeteer for data extraction",
-      "Maintained and optimized Employee Management and Agricultural Monitoring systems using Symfony and MongoDB",
+      "Developed web scraping application using Puppeteer for data extraction and automation",
+      "Maintained and optimized Employee Management and Agricultural Monitoring systems using Symfony 4 and MongoDB",
       "Built robust APIs for Music Application serving web and mobile platforms",
-      "Implemented innovative features for Chatbot and Music applications",
+      "Contributed to Chatbot project with feature implementations and backend optimization",
+      "Initiated and led a scraping-related project independently from conception to deployment",
       "Enhanced system performance and operational efficiency across multiple projects"
     ]
   },
@@ -56,6 +56,8 @@ export const experiences = [
     achievements: [
       "Designed patient booking application with seamless clinic consultation platform",
       "Engineered classroom management system for Japanese students and educators",
+      "Contributed to in-house ecommerce platform with inventory management and sales tracking features",
+      "Developed web scraping solutions using PuppeteerJS for data collection and automation",
       "Led code restructuring initiatives improving code quality and maintainability",
       "Conducted comprehensive PHPUnit and CypressIO testing for all functionalities",
       "Developed APIs for real-time data synchronization between web and mobile platforms",
@@ -69,7 +71,7 @@ export const experiences = [
     achievements: [
       "Resolved software bugs and introduced innovative features to CRM system",
       "Collaborated with team members using UMLET for feature implementation guidance",
-      "Ensured smooth deployment of new CRM functionalities"
+      "Got new CRM features deployed without issues"
     ]
   },
   {

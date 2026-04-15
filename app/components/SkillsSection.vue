@@ -77,7 +77,7 @@
     <!-- Proficiencies Summary -->
     <div class="mt-12 grid md:grid-cols-4 gap-4">
       <div class="bg-gray-900 border border-gray-800 rounded-lg p-4 text-center">
-        <p class="text-3xl font-bold text-blue-400">10+</p>
+        <p class="text-3xl font-bold text-blue-400">10</p>
         <p class="text-gray-400 text-sm mt-1">Years Experience</p>
       </div>
       <div class="bg-gray-900 border border-gray-800 rounded-lg p-4 text-center">
