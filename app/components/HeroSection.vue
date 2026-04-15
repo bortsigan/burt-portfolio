@@ -2,7 +2,7 @@
   <section id="about" class="py-20 md:py-32 text-center">
     <!-- Main Headline -->
     <div class="mb-12">
-      <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-blue-500 to-blue-600 bg-clip-text text-transparent leading-tight">
+      <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-linear-to-r from-blue-400 via-blue-500 to-blue-600 bg-clip-text text-transparent leading-tight">
         {{ heroData.name }}
       </h1>
       <p class="text-2xl md:text-3xl text-gray-300 font-light mb-6">{{ heroData.title }}</p>
