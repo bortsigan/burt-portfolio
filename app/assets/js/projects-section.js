@@ -64,7 +64,7 @@ export const projects = [
       { label: "Clinics", value: "3-4 locations" },
       { label: "Impact", value: "Reduced scheduling errors" }
     ],
-    technologies: ["PHP", "Laravel", "Vue.js", "MySQL"],
+    technologies: ["Laravel", "Vue.js", "MySQL"],
     role: "PHP/Full-Stack Developer",
     highlights: [
       "Built the booking system so patients could schedule appointments without calling or emailing",
@@ -82,7 +82,7 @@ export const projects = [
       { label: "Features", value: "20+ lesson types" },
       { label: "Impact", value: "Active user base" }
     ],
-    technologies: ["PHP", "jQuery", "MySQL", "HTML5"],
+    technologies: ["CakePHP", "jQuery", "MySQL", "HTML5", "NodeJS", "SocketIO", "WebRTC"],
     role: "PHP Developer",
     highlights: [
       "Built interactive lessons where students could actually practice and get immediate feedback",
@@ -100,7 +100,7 @@ export const projects = [
       { label: "Users", value: "1,000+ teachers/students" },
       { label: "Impact", value: "Simpler workflows" }
     ],
-    technologies: ["PHP", "Laravel", "MySQL"],
+    technologies: ["Laravel", "MySQL"],
     role: "PHP Developer",
     highlights: [
       "Built an attendance system teachers could actually use and trust",
@@ -118,7 +118,7 @@ export const projects = [
       { label: "Transactions", value: "Daily tracking" },
       { label: "Impact", value: "Better stock control" }
     ],
-    technologies: ["PHP", "Laravel", "MySQL", "Vue.js"],
+    technologies: ["Laravel", "MySQL", "Vue.js"],
     role: "PHP/Full-Stack Developer",
     highlights: [
       "Built inventory system that tracked stock levels and prevented overselling",
@@ -136,7 +136,7 @@ export const projects = [
       { label: "Reliability", value: "Error handling & retries" },
       { label: "Impact", value: "Time saved on manual work" }
     ],
-    technologies: ["PuppeteerJS", "Node.js", "JavaScript", "Data Processing"],
+    technologies: ["PuppeteerJS", "JavaScript", "Data Processing"],
     role: "PHP Developer",
     highlights: [
       "Built automated scrapers that collected data without manual intervention",
@@ -154,7 +154,7 @@ export const projects = [
       { label: "Reliability", value: "24/7 availability" },
       { label: "Impact", value: "Improved response times" }
     ],
-    technologies: ["Symfony 4", "PHP", "APIs", "MongoDB"],
+    technologies: ["Symfony 4", "PHP", "APIs", "MongoDB", "ReactJS"],
     role: "Symfony Developer",
     highlights: [
       "Developed backend services that powered the chatbot's core functionality",
@@ -172,7 +172,7 @@ export const projects = [
       { label: "Complexity", value: "Multi-stage pipeline" },
       { label: "Impact", value: "Demonstrated autonomy" }
     ],
-    technologies: ["Symfony 4", "PuppeteerJS", "Node.js", "Data Processing", "MongoDB"],
+    technologies: ["Symfony 4", "PuppeteerJS", "Data Processing", "MongoDB"],
     role: "Symfony Developer",
     highlights: [
       "Conceptualized and designed the entire project architecture independently",

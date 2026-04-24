@@ -8,6 +8,7 @@
             <nav class="hidden md:flex space-x-8 text-sm font-medium">
                 <a href="#about" class="text-gray-300 hover:text-blue-400 transition">About</a>
                 <a href="#contributions" class="text-gray-300 hover:text-blue-400 transition">Contributions</a>
+                <a href="#sample-works" class="text-gray-300 hover:text-blue-400 transition">Sample Works</a>
                 <a href="#experience" class="text-gray-300 hover:text-blue-400 transition">Experience</a>
                 <a href="#skills" class="text-gray-300 hover:text-blue-400 transition">Skills</a>
                 <a href="#contact" class="text-gray-300 hover:text-blue-400 transition">Contact</a>

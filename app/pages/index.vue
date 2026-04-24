@@ -2,6 +2,7 @@
   <div>
     <HeroSection />
     <ProjectsSection />
+    <SampleWorksSection />
     <ExperienceSection />
     <SkillsSection />
     <ContactSection />
